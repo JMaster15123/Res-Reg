@@ -7,6 +7,12 @@
 - tensorboard_logger
 - numpy, pandas, scipy, tqdm, matplotlib, PIL, wget
 
+You can directly configure the virtual environment through the following command
+
+```bash
+conda env create -f environment.yml
+```
+
 ## Code Overview
 
 #### Main Files
